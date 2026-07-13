@@ -4,7 +4,7 @@ A responsive **EMI (Equated Monthly Installment) Calculator** built using **HTML
 This application helps users calculate their monthly loan EMI, total interest payable, and total payment based on the loan amount, interest rate, and loan tenure.
 
 ## 🚀 Live Demo
-
+https://sagar-chand.github.io/EMI-calulator/
 
 ## ✨ Features
 
